@@ -1,0 +1,20 @@
+button{
+    width: 95px;
+    height: 95px;
+    background-color: rgb(0, 255, 42);
+    border-radius: 100px;
+    transition-delay: 100ms;
+    transition: border-radius 1s ease-in;
+    Transition: all 2s ease-in
+    
+}
+
+button:hover{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(0, 139, 12);
+    transition: border-radius 1s ease-in;
+    transition-delay: 0.1ms;
+    Transition: all 2s ease-in;
+
+}
